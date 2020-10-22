@@ -11,8 +11,8 @@ page_sections:
     link_text: Nav1
   - link: "#"
     link_text: Nav2
-  - link: ''
-    link_text: ''
+  - link: "#"
+    link_text: Nav3
   - link: "/"
     link_text: Ubuild
   - link: "#swap"
