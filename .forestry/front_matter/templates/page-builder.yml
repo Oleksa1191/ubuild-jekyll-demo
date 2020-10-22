@@ -1,6 +1,7 @@
 ---
 label: page-builder
-hide_body: true
+hide_body: false
+display_field: layout
 fields:
 - type: text
   label: Title
