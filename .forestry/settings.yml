@@ -20,7 +20,7 @@ sections:
   create: all
 - type: document
   path: _config.yml
-  label: Config
+  label: Config1
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
