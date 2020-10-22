@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "#"
     link_text: Nav1
-  - link: ''
-    link_text: ''
+  - link: "#"
+    link_text: Nav2
   - link: ''
     link_text: ''
   - link: "/"
